@@ -1,0 +1,17 @@
+name: HubSpawn
+main: com.kleptotech.HubSpawn
+version: 0.0.1-SNAPSHOT
+author: Klepto (dfsf5263)
+
+permissions:
+    hubspawn.admin:
+        description: Gives access to all Hub Spawn commands
+        default: op
+        
+commands:
+   hs:
+      description: Hub Spawn commands.
+      usage: |
+               Commands overview:
+               /<command> reload: This command will reload the config file.
+               /<command> setspawn: This command will set the spawn location.
