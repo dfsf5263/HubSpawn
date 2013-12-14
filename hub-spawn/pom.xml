@@ -7,10 +7,6 @@
 	<name>Hub Spawn</name>
 	<description>Simple plugin for placing every reconnecting player at a preset spawn point</description>
 
-	<properties>
-		<slf4jVersion>1.6.1</slf4jVersion>
-	</properties>
-
 	<repositories>
 		<repository>
 			<id>bukkit-repo</id>
